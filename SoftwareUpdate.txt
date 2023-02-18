@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Disable Tab Limit - Disables the default tab limit (varies giữa devices)
