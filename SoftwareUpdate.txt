@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
