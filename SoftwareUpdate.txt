@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Auto-format by https://ultralytics.com/actions
