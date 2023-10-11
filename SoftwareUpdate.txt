@@ -1,1 +1,1 @@
-Add Neural Magic Docs integrations page (#7234)
+Faster batch same_shapes (#8851)
