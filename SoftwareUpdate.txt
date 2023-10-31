@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+Fix docker.yaml double-quote version bug (#7452)
