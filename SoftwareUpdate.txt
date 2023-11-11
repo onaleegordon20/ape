@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Update H1 in Explorer API docs (#7813)
