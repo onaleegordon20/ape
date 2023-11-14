@@ -1,1 +1,1 @@
-Update H1 in Explorer API docs (#7813)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
