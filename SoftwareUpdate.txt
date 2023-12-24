@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Add horizontal Mosaic3 augmentation (#6898)
