@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
