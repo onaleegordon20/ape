@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
