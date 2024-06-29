@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+Fix OBB xywh-angle concatenation bug (#7404)
