@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+Fix OpenVINO links (#7930)
